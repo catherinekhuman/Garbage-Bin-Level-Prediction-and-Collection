@@ -10,17 +10,17 @@ Khumanthem Catherine
 
 1. AIM OF THE PROJECT
 
-   The aim of this project is to predict the fill level of garbage bins using machine learning algorithms to optimize waste collection processes.
+   The aim of this project is to predict the fill level of garbage bins using machine learning algorithms to optimise waste collection processes.
    
 
 3. UNIQUENESS/DIFFERENTIATOR TRIED OUT IN THE PROJECT
 
-   The project employs advanced machine learning algorithms to analyze sensor data from garbage bins, allowing real-time predictions of when bins will need to be emptied.
+   The project employs advanced machine learning algorithms to analyse sensor data from garbage bins, allowing real-time predictions of when bins will need to be emptied.
 
 
 3. INFERENCE
 
-   The model predicts the filled status of garbage bins using binary classification (True/False). Thus, waste collection services can be preemptively optimized before bins overflow.
+   The model predicts the filled status of garbage bins using binary classification (True/False). Thus, waste collection services can be preemptively optimised before bins overflow.
 
 
 4. METRICS OF THE PROJECT
@@ -34,31 +34,31 @@ Khumanthem Catherine
 
 5. RESULTS
 
-  Logistic Regression:
+   Logistic Regression:
   Accuracy: 1.0000
   Precision: 1.0000
   Recall: 1.0000
   F1 Score: 1.0000
   
-  Decision Tree:
+   Decision Tree:
   Accuracy: 1.0000
   Precision: 1.0000
   Recall: 1.0000
   F1 Score: 1.0000
   
-  Random Forest:
+   Random Forest:
   Accuracy: 1.0000
   Precision: 1.0000
   Recall: 1.0000
   F1 Score: 1.0000
   
-  Gradient Boosting:
+   Gradient Boosting:
   Accuracy: 1.0000
   Precision: 1.0000
   Recall: 1.0000
   F1 Score: 1.0000
   
-  Support Vector Machine:
+   Support Vector Machine:
   Accuracy: 0.9995
   Precision: 1.0000
   Recall: 0.9947
